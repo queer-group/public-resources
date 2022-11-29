@@ -83,7 +83,7 @@ _Das ist nicht Twitter_. Das Melden von Beiträgen, die euch Unbehagen bereiten 
 **Keine Meldung wird ignoriert.** Meldungen werden innerhalb weniger Stunden, im Ausnahmefall innerhalb weniger Tage bearbeitet.
 
 Keine der Moderationsmaßnahmen erfolgt automatisch. Nichts geschieht ohne menschliche Überprüfung, und wir bemühen uns bestmöglich, es den Nutzer\*innen dieser Instanz recht zu machen.
-Für alles, was nicht durch das Melden von Dingen in Mastodon abgedeckt ist, oder wenn Sie irgendwelche Fragen, Bedenken oder andere Gedanken haben, könnt ihr uns auch direkt kontaktieren.
+Für alles, was nicht durch das Melden von Dingen in Mastodon abgedeckt ist, oder wenn ihr irgendwelche Fragen, Bedenken oder andere Gedanken habt, könnt ihr uns auch direkt kontaktieren.
 
 ### Barrierefreiheit
 
