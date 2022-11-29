@@ -69,8 +69,8 @@ und darum gebeten, sich auf eine andere Instanz zu begeben.
 - Jede visuelle Darstellung von Blut, Verletzungen, Folter, Mord oder medizinischen Prozeduren
 - Jede unmissverständliche visuelle Darstellung von Drogen
 - Jede Beschreibung/Darstellung von sexuellen Aktivitäten
-- Jede Nachricht, die Suizid, Self-Harm, Missbrauch, Vergewaltigung oder sexuellen Übergriffe, erwähnt
-- Spoilers (in Maßen)
+- Jede Nachricht, die Suizid, Selbstverletzung, Missbrauch, Vergewaltigung oder sexuellen Übergriffe, erwähnt
+- Spoiler (in Maßen)
 
 Abgesehen davon haben wir keine Vorschriften für Inhaltswarnungen. Alle Nutzer\*innen sind angehalten,
 auf die Bedürfnisse und Wünsche der anderen Menschen einzugehen, insbesondere in Bezug auf Dinge, die allgemein als abstoßend oder erschreckend angesehen werden (z.B. die schlimmsten Ereignisse in der Geschichte der Menschheit und die schlimmsten Dinge, die Menschen einander antun können).
