@@ -48,8 +48,8 @@ Wir planen, diese Richtlinien im Laufe der Zeit anzupassen und zu ändern, und s
 
 Postings der folgenden Art werden sofort gelöscht. Bei Wiederholung werden die Accounts ermahnt und bei fehlender Einsicht ebenfalls gelöscht.
 
-- rassistische, misogyne, queerfeindliche oder ableistische Slurs (außer du gehörst jeweils zu der besagten Gruppe und hast den Ausdruck für dich "reclaimt")
-- Symbole, Slogans, Memes/Witze oder fades Geschwätz der reaktionären Rechten
+- diskrimierendes Verhalten und Inhalte, die die Unterdrückung von marginalisierten Gruppen fördert oder befürwortet. Dazu gehört beispielsweise Rassismus, Queerfeindlichkeit, Ableismus, etc.
+- Symbole, Slogans, Memes/Witze oder sonstige *talking points* der reaktionären Rechten
 - gezielte Belästigungen/Mobbing (bspw. im Umgehen von Blocks, wiederholt feindlich gesinnten Antworten, Misgendering, Deadnaming)
 - Pornografie oder sexuell anzügliche Bilder von Menschen, die keine Zustimmung gegeben haben
 - gezielte Desinformation
