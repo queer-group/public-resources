@@ -21,6 +21,7 @@ einen Ort des Rückzugs haben. Einen Ort der Ruhe, einen Ort der Ehrlichkeit. Mi
 queer.group wird nicht unendlich wachsen. Dafür haben wir keine personellen Kapazitäten und das Ziel
 würde auch ein wenig verfehlt werden. Es wird einen Zeitpunkt geben müssen, ab dem keine weiteren Registrierungen
 mehr möglich sein werden, damit wir unsere selbstgesteckten Ziele noch erreichen können.
+Falls ihr uns in unseren Vorhaben unterstützen wollt, könnt ihr uns [via Kofi unterstützen.] (https://ko-fi.com/queergroup)
 
 In den folgenden Monaten und Jahren planen wir folgendes:
 
@@ -87,7 +88,7 @@ Für alles, was nicht durch das Melden von Dingen in Mastodon abgedeckt ist, ode
 
 ### Barrierefreiheit
 
-Wir möchten dazu ermutigen, Bildbeschreibungen zu erstellen, damit die Beiträge für mehr Menschen erreichbar werden. Falls du noch keine Erfahrung hast, der Deutsche Blinden- und Sehbehindertenverband e.V. hat eine [Kurzeinführung für das Schreiben von Bildbeschreibungen](https://www.dbsv.org/bildbeschreibung-4-regeln.html) veröffentliucht.
+Wir möchten dazu ermutigen, Bildbeschreibungen zu erstellen, damit die Beiträge für mehr Menschen erreichbar werden. Falls du noch keine Erfahrung hast, der Deutsche Blinden- und Sehbehindertenverband e.V. hat eine [Kurzeinführung für das Schreiben von Bildbeschreibungen](https://www.dbsv.org/bildbeschreibung-4-regeln.html) veröffentlicht.
 Aus dem gleichen Grund raten wir davon ab, viele Emojis in den Anzeigenamen zu setzen.
 
 ## Deföderation von anderen Instanzen
@@ -104,7 +105,7 @@ Der Grund wird für die Instanzen dabei angegeben, für einzelne Nutzer\*innen w
 Du kannst jederzeit die Moderator\*innen kontaktieren, wir freuen uns auf dich!
 
 Jasmin | sie/ihr | @jasmin <br>
-Lou | sie/ihr | @lou
+Vivien | sie/they/it | @vivien <br>
 
 ## Attribution
 
