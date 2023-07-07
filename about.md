@@ -111,4 +111,8 @@ Vivien | sie/they/it | @vivien <br>
 
 This text is free to be adapted and remixed under the terms of the [CC-BY (Attribution 4.0 International)](https://creativecommons.org/licenses/by/4.0/) license.
 
-This instance uses <a href='https://mutant.tech'>Mutant Standard emoji</a>, which are licensed under a <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+### Emojis
+
+- [Mutant standard emoji](https://mutant.tech), licensed under a [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- [Neofox v1.1](https://volpeon.ink/projects/emojis/neofox/), licensed under a [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
