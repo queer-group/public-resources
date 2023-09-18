@@ -21,7 +21,6 @@ einen Ort des Rückzugs haben. Einen Ort der Ruhe, einen Ort der Ehrlichkeit. Mi
 queer.group wird nicht unendlich wachsen. Dafür haben wir keine personellen Kapazitäten und das Ziel
 würde auch ein wenig verfehlt werden. Es wird einen Zeitpunkt geben müssen, ab dem keine weiteren Registrierungen
 mehr möglich sein werden, damit wir unsere selbstgesteckten Ziele noch erreichen können.
-Falls ihr uns in unseren Vorhaben unterstützen wollt, könnt ihr uns [via Kofi unterstützen.](https://ko-fi.com/queergroup)
 
 In den folgenden Monaten und Jahren planen wir folgendes:
 
